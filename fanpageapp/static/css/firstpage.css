@@ -1,0 +1,25 @@
+body{
+    background-repeat: no-repeat; 
+	background-position: center;
+	background-attachment: fixed; 
+    background-size: 30%;
+    
+}
+
+h1{color: yellowgreen;}
+
+#iloveyou {
+    white-space: nowrap; 
+    font-size: 30px;
+    color: black;
+}
+
+#container {
+    text-align: center;
+    padding-top: 3em;
+}
+
+span{
+    font-size: 25px;
+    color: grey
+}
